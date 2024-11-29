@@ -59,7 +59,7 @@ A continuación se realizará una descripción detallada de cada tabla junto con
 |**Asignatura**| Se registran tadas las asignaturas con sus creditos|
 |**Alumno_se_matricula_asignatura**| Se registran todos los id foraneos |
 
-## Creditos: 
+## Créditos: 
 
 Este filtro fue realizado por Zully Fernanda Ortiz Avendaño CC.1092528097
 
